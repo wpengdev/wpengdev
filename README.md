@@ -1,19 +1,20 @@
 ## Hi I'm William Peng!
 
 I'm an aspiring mechatronics engineer interested in designing and building cool things like robotics arms and rc planes.
+---
 
-🔧 Current projects:
-    - RC Plane development
-    - Arduino movement vision app development
-    - ESP32 Plantbuddy development
+### 🔧 Current projects:
+        - RC Plane development
+        - Arduino movement vision app development
+        - ESP32 Plantbuddy development
 
-📚 Skills:
-    - C++
-    - Python
-    - Arduino
-    - ESP32
-    - Blender
-    - CAD Modeling
+### 📚 Skills:
+        - C++
+        - Python
+        - Arduino
+        - ESP32
+        - Blender
+        - CAD Modeling
 
 
 <!--
