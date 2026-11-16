@@ -1,4 +1,4 @@
-## Hi I'm **William Peng*!
+## Hi I'm **William Peng**!
 
 I'm an aspiring **mechatronics engineer** interested in designing and building cool things like robotic arms and RC planes.
 ---
@@ -9,12 +9,12 @@ I'm an aspiring **mechatronics engineer** interested in designing and building c
 - ESP32 Plantbuddy development
 
 ### 📚 Skills:
-        - C++
-        - Python
-        - Arduino
-        - ESP32
-        - Blender
-        - CAD Modeling
+- C++
+- Python
+- Arduino
+- ESP32
+- Blender
+- CAD Modeling
 
 
 <!--
