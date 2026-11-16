@@ -1,12 +1,12 @@
-## Hi I'm **William Peng**!
+## Hi I'm **William Peng*!
 
-I'm an aspiring **mechatronics engineer** interested in designing and building cool things like robotic arms and rc planes.
+I'm an aspiring **mechatronics engineer** interested in designing and building cool things like robotic arms and RC planes.
 ---
 
 ### 🔧 Current projects:
-        - RC Plane development
-        - Arduino movement vision app development
-        - ESP32 Plantbuddy development
+- RC Plane development
+- Arduino movement vision app development
+- ESP32 Plantbuddy development
 
 ### 📚 Skills:
         - C++
